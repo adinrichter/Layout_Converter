@@ -1,2 +1,2 @@
 # Layout_Converter
-A simple layout converter I made
+A program to easily convert text between ciphers
